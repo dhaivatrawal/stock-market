@@ -1,0 +1,47 @@
+Nifty Meaning - Know What is Nifty & How it is Calculated
+Let’s learn in brief about:
+
+Now let’s understand in depth about the primary and secondary market and what the difference between primary and secondary market is.
+
+Nifty meaning
+The companies part of Nifty
+How is Nifty calculated
+Nifty Meaning:
+The term Nifty is derived from the combination National and Fifty as Nifty consists of 50 actively traded stocks. Nifty is primarily an equity benchmark index which was introduced in April 21, 1996 by National Stock Exchange. Nifty is an abbreviation of National Stock Exchange Fifty, it is the broad index of National Stock Exchange (NSE). NSE is a leading stock exchange in India.
+
+On June 12, 2000, NSE commenced trading in derivatives with index future. The future contracts are based on Nifty 50. Later on the exchange introduced trading in index options on June 4, 2001.
+
+Now let’s see what is Nifty?
+
+Nifty generally comprises of fifty actively traded stocks but currently there are fifty-one stocks. Nifty is also known as Nifty50 or CNX Nifty. Nifty is owned by India Index Services and Products Ltd. (IISL). IISL is India’s specialized company which focuses on index as its core product. It is one of the largest financial products with an ecosystem of ETF, ETF F&O and other index funds and OTC derivatives.
+
+The companies that are part of Nifty50
+Below are the following parameters and eligibility criteria that are required to be satisfied by the companies to be a part of Nifty50.
+
+Liquidity i.e. the stock should have been traded at an average cost of 0.50% or less during the last 6 months.
+Float adjustment i.e. the float adjusted market capitalization of the companies must be at least twice of the current smallest index constituent.
+Domicile: the company should trade on NSE and be domiciled in India.
+The process to buy Equity in secondary market is very easy. The following procedure is followed while buying or selling shares in the secondary market:
+
+Open demat account with a depository participant (DP).
+Open a trading account with a broker.
+Link your bank account with demat and trading account.
+The broker buys or sells the shares by executing orders on the electronic terminal provided by the stock exchange.
+A contract note is issued by the broker detailing the value of shares purchased plus his brokerage cost.
+The broker collects shares via settlement process (T+1) and makes payment on the behalf of investor.
+Order gets executed on the final settlement date (T+2).
+How is Nifty calculated?
+It is calculated using the free float market capitalization weighted method where the level of index reflects the total market value of the stocks relative to a particular base period.
+
+Market Capitalization = Equity Capital * Price
+Free Float Market Capitalization = Equity Capital x Price * Investible Weight Factor
+Index Value = Current Market Value / Base Market Capital * Base Index Value (1000)
+
+*IWF is a factor which is used to determine the number of shares available for trading. The index is calculated on a real-time basis everyday as the value of scrip also changes daily.
+
+Note: the base period selected for calculating Nifty50 index is the close price on Nov 3, 1995. The base value has been set at 1000 and the base capital at Rs. 2.06 trillion.
+
+How is Nifty different from Sensex
+As such, there is no main difference between Sensex and Nifty as both targets towards large cap stocks. Both Nifty and Sensex are indices of stock market that indicate the strength of the market. The Nifty reflects the value of National Stock Exchange (NSE) whereas Sensex is the stock market index for Bombay Stock Exchange (BSE).
+
+Nifty is broader as it consists of more listed securities i.e. 50 stocks whereas sensex contains 30 stocks. Also, Nifty is considered as to have a more diversified portfolio when compared to Sensex. More trading is noticed to happen in NSE when compared to BSE.

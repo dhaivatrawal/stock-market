@@ -1,0 +1,53 @@
+What is preference share & types of preference shares?
+Preference Shares Meaning
+These are shares which are preferred over equity shares in payment of dividend, the preference shareholders are the first to get dividends if the company decides to distribute or pay dividends.
+
+Let’s study below in depth what are preference shares?
+
+Preference shares are shares having preferential rights to claim dividends during the lifetime of the company and to claim repayment of capital on wind up. In case of preference shares, the percentage of dividend is fixed i.e. the holders get the fixed dividend before any dividend is paid to other classes of shareholders.
+
+Preference shares are one important source of hybrid financing because it has some features of equity shares and some features of debentures. The preference shareholders enjoy preferential rights with regard to receiving dividends and getting back capital in case the company winds-up.
+
+Features of preference shares:
+Preference shares have a wide range of features as corporate emphasize a set of features while issuing them such as:
+
+Dividends for preference shareholders
+Preference shareholders have no right to vote in the annual general meeting of a company
+These are a long-term source of finance
+Dividend payable is generally higher than debenture interest
+Right on assets when the company is liquidated
+Par value of preference shares
+Fixed-rate of dividend irrespective of the volume of profit gained
+Preemptive right of preference shareholders
+Hybrid security of preference shares because it also bears some characteristics of debentures
+The dividend is not tax-deductible expenditure
+Shareholders also enjoy preferential right to receive dividend
+Types of preference shares
+There are various types of preference shares according to the clause contained in the agreement at the time of issue, some important kinds are listed below:
+
+Cumulative Preference Shares:
+Shares having right of dividend even in those years in which it makes no profit are known as cumulative preference shares. In case the companies do not declare dividends for a particular year then they are treated as arrears and are carried forward to next year. When the arrears pertaining to dividend are cumulative in nature and such arrears are cleared before any dividend payment to equity shareholders then it is said to be as cumulative preference shares.
+
+Non-cumulative Preference Shares:
+A non-cumulative preference share does not accumulate any dividend. In case the dividend by the company is not paid then they have the right to avail dividends from the profits earned from the particular year. Dividends are paid only from the net profit of each year. In case there is no profit accumulated for a particular year then the arrears of dividends cannot be claimed in subsequent years.
+
+Participating Preference Shares:
+These shares have the right to participate in surplus profits of the company during liquidation after the company had paid to other shareholders. The preferential shareholders receive stipulated rate of dividend and also participate in the additional earnings of the company along with the equity shareholders.
+
+Participating Preference Shares:
+These shares have the right to participate in surplus profits of the company during liquidation after the company had paid to other shareholders. The preferential shareholders receive stipulated rate of dividend and also participate in the additional earnings of the company along with the equity shareholders.
+
+Non-participating Preference Shares:
+Preference shares having no right to participate in the surplus profits or in any surplus on liquidation of the company are referred to as non-participating preference shares. Here, preference shareholders receive only stated dividend and nothing more.
+
+Convertible Preference Shares:
+These shares are those which are converted into equity shares at a specified rate on the expiry of a stated period. The shareholders have a right to convert their shares into equity shares within a specified period.
+
+Non-convertible Preference Shares:
+The shares that cannot be converted to equity are referred to as non-convertible shares. These can also be redeemed.
+
+Redeemable Preference Shares:
+Redeemable preference shares are referred to as shares that can be redeemed or repaid after the fixed period as issued by the company or even before that.
+
+Non-Redeemable Preference Shares:
+Non redeemable preference shares are referred to as shares that cannot be redeemed during the lifetime of the company.

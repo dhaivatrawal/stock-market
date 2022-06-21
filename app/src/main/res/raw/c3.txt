@@ -1,0 +1,96 @@
+Currency Derivative
+Currency derivative is basically a risk managing instrument which enables entities with Fx-fluctuations risk to take long or short positions to hedge an opposite short/long positions.
+
+In the competitive world where exports and imports are an integral part of the business, companies have exposure to foreign exchange risk.
+
+Instruments for Hedging Foreign Exchange Risk
+Forward: A forward contract is a customized OTC contract between two parties where settlement takes place on specific date in the future at pre-agreed price. Banks deal in it.
+
+Futures: It is exchange traded standardized contract between two parties with regard to buying and selling of underlying in certain time in the futures at certain price.
+
+Options: It is exchange traded contract which gives the right to buy or sell without obligation on the underlying.
+
+Swaps: It is an agreement between two parties to swap the principal and interest with the cash flow in one direction being in different currency than those in opposite direction.
+
+Entites Exposed to Foreign Exchange Risk
+Exporters: Strengthening of Rupee adversely affect the profit margin of exporter, while weakening of Rupee boost their profit margin.
+
+Importers: Strengthening of Rupee favorably affect an importer as their payments for goods go down when Rupee appreciates and vice-versa.
+
+Borrowers: Under present globalized world, Indian firms choose loans in foreign currencies over rupee loan because they are cheaper. However, when accepting loan, there is risk involved relating to exchange rate fluctuations.
+
+Business needs to sell Foreign Currency:This includes exporters of goods from India, a company getting capital infusion. Repatriation of investment money from abroad i.e. company which has raised money from abroad.
+
+Business needs to buy  Foreign Currency: This includes importer of goods and services into India, a company which has to repay the capital raised from abroad, individual’s planning to spend in foreign currencies.
+
+In addition to entities with Fx-fluctuations risk as stated above, entities which are exposed to fx-fluctuations risk are as given below:
+
+Payment in foreign currency for travel abroad, education, medical treatment, payment, employees based abroad, etc.
+Payment of loans availed in foreign currency
+Investment in assets outside India or repatriation of capital invested outside India
+Payment of loan instalments in INR by person earning foreign currency
+De-risking the US equity portfolio from USD/INR currency risk
+Significance of Currency Derivative:
+Hedging, Price Discovery and Portfolio Diversification
+
+Cash Vs. Futures:
+Futures > Cash + Cost of Carry (i.e. interest rate); Sell Futures and Buy Cash Futures < Cash + Cost of Carry (i.e. interest rate); Buy Futures and Sell Cash
+
+Calendar Spread:
+Futures 2 > Futures 1 + Cost of Carry; Sell Futures 2 and Buy Futures 1 Futures 2 < Futures 1 + Cost of Carry; Buy Futures 2 and Sell Futures 1
+
+The value of a currency is determined by the forces of demand and supply, as in the case of any other assets. The value of currency also depends on a number of other factors and will fluctuate according to changes in economic conditions, general money market conditions including the state of money supply in the economy, prevailing interest rate and future interest rate expectations, changes in price level, changes in crude oil price, performances of stock markets, performances of Asian currencies
+
+Currency Futures Trading Strategies:
+1. Traders willing to protect themselves from appreciating foreign currencies i.e. base currencies can lock-in pre-determined buying price.
+
+2. Traders willing to protect themselves from depreciating foreign currencies i.e. base currencies can lock-in pre-determined selling price.
+
+Contract Specification of Currency Futures:
+
+Trading hours	:	Monday to Friday: 9:00am to 5:00pm
+Contract Months	:	12 near calendar months
+Contract Size	:	USD 1000, EUR 1000, GBP 1000 and JPY 1,00,000
+Tick Size	:	0.25 paisa or INR 0.0025 per 1 USD
+Last trading day	:	Two working days prior to last business day of the expiry month at 12.15 noon
+Final Settlement date	:	Last working day (excluding Saturdays) of the expiry month
+Settlement	:	Daily settlement: T + 1 /Final settlement: T + 2
+Daily settlement	:	Price Weighted average price during last half hour of trading
+Final settlement	:	Price RBI reference rate on expiry date
+Contract Specifications of Currency Options:
+
+Symbol	:	1-1 unit denotes 1000 USD
+Instrument Type	:	OPTCUR
+Option Type	:	Premium Style European Call and Put Options
+Premium	:	Premium quoted in INR
+Unit of trading	:	1 contract unit denotes USD 1000
+Underlying/Order Quotation:	:	The exchange rate in Indian Rupees for US Dollars
+Tick Size	:	0.25 paise ie INR 0.0025
+Trading hours	:	Monday to Friday 9.00 am to 5.00 pm
+Contract Trading	:	3 serial monthly contracts followed by 3 quarterly contract of the cycle
+Cycle	:	March/June/September/December
+Strike Price	:	12 In-the -money, 12 Out- the- money and 1 Near-the-money. (25CE and 25 PE)
+Strike Price Intervals	:	INR 0.25
+Price Bands	:	A contract specific price range based on its delta value computed and updated on daily basis.
+Maximum Quantity Limit	:	10000 lots per order
+Base Price	:	Theoretical price on the 1st day of the contract On all other days, DSP of the contract.
+Expiry/Last trading day	:	Two working days prior to the last business day of the month at 12 .30 PM.
+Exercise at expiry	:	All in-the-moneys open long contracts shall be automatically exercised at the final settlement price.
+Final Settlement Day	:	Last working day (excluding Saturdays) of the expiry month The last working day will be the same as that for Interbank Settlements in Mumbai.
+Initial Margin	:	SPAN based margin
+Settlement of Premium	:	Premium to be paid by the buyer in cash on T+1 day
+Settlement	:	Daily Settlement : T+1
+Final Settlement : T+2
+Mode of Settlement	:	Cash settled in Indian Rupees
+Final Settlement Price (FSP)	:	RBI reference rate on the date of the expiry of the contract
+Currency Option Trading Strategies:
+In every currency transactions, one currency is bought while another is sold. For e.g.: An option to buy USD for INR is an USD call and INR Put. Conversely, an option to sell USD for INR is an USD Put and INR call.
+The other basic like, Strike price, Expiration period, Style are similar to other underlying option.
+
+Strategies:
+A trader having long directional view can buy a Call option or sell Put option. Similarly, a trader having short directional view on currency can sell Call option or buy Put option.
+In case where Call and Put are bought, the downside risk is limited only up to the amount of premium paid while upside is risk unlimited and vice-versa.
+
+Option combinations Strategies:
+Option combinations strategies are most suitable when market view is moderately bullish/bearish, range-bound or uncertain and the objective is to reduce the overall premium.
+Instruments include, Bull & Bear Call-Put spread, Strangle, Straddle, Butterfly, Covered and Protective Call and Put.

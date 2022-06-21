@@ -1,0 +1,164 @@
+1. Bullish Strategy: Long Call
+Strategy	:	Buy Call option
+Risk	:	Limited to Premium
+Return	:	Unlimited
+Break-even	:	Strike Price + Premium
+Profit	:	when price moves up and option is exercised
+Loss	:	when price moves down and option expired unexercised
+
+2. Bullish Strategy: Short Put
+Strategy	:	Sell Put option
+Risk	:	Unlimited
+Return	:	Limited to Premium
+Break-even	:	Strike price – Premium
+Profit	:	when price does not go down and option expires unexercised
+Loss	:	when price goes down and option is exercised
+
+3. Bearish View: Long Put
+Strategy	:	Buy Put option
+Risk	:	Limited to Premium
+Return	:	Unlimited
+Break-even	:	Strike Price - Premium
+Profit	:	when price moves down and option is exercised
+Loss	:	when price moves up and option expired unexercised
+
+4. Bearish View: Short Call
+Strategy	:	Sell Call option
+Risk	:	Unlimited
+Return	:	Limited to Premium
+Break-even	:	Strike price + Premium
+Profit	:	when price goes down and option remain unexercised
+Loss	:	when price goes up and option is exercised
+
+5. Bullish Strategy: Bull-Call Spread
+View	:	Moderately Bullish
+Strategy	:	Buying ITM Call and Selling OTM Call
+Risk	:	Limited to net premium paid
+Return	:	Limited to difference between the two strike prices – net premium paid
+Break-even	:	Strike price of purchased Call + Net premium paid
+Max Profit	:	when both options are exercised
+Max Loss	:	Both options remain unexercised
+
+6. Bearish Strategy: Bear-Put Spread
+View	:	Moderately Bearish
+Strategy	:	Buy ITM Put and Sell OTM Put
+Risk	:	Limited to net premium paid
+Reward	:	Limited to difference between the two strike prices – net premium paid
+Break-even	:	Strike price of long Put- net premium paid
+Profit	:	when price goes down and both options are exercised
+Max Loss	:	when price goes up and both options remain unexercised.
+
+7. Bullish Strategy: Synthetic Call/Protective Put
+View	:	conservatively bullish on underlying
+Strategy	:	Buy futures and buy put option to protect against unexpected fall in price.
+Risk	:	Limited to futures price + Put premium – Put Strike price
+Return	:	Unlimited
+Break-even	:	Futures Price + Put Premium
+Profit	:	when the price of underlying goes up
+Max Loss	:	when the price goes down and option is exercised
+
+8. Bearish Strategy: Synthetic Long Put/Protective Call
+View	:	Bearish but keep position protected against unexpected rise
+Strategy	:	Sell Futures and buy call option
+Risk	:	Limited to Call strike price – Futures Price + Premium
+Return	:	Unlimited
+Break-even	:	Futures Price – Call Premium
+Profit	:	when price goes down and option is not exercised
+Max Loss	:	when price goes up and option is exercised
+
+9. Bullish Strategy: Covered Call with Futures
+View	:	Moderately Bullish on existing long futures
+Strategy	:	Sell OTM Call option to earn premium
+Risk	:	Unlimited if price falls while return to the extent of premium
+Return	:	Limited to strike price – Futures price paid + Premium received
+Break-even	:	Futures price paid – Premium received
+Max Profit	:	when price goes up and option is exercised
+Loss	:	when price goes down
+
+10. Bearish Strategy: Covered Put
+View	:	Neutral to Bearish
+Strategy	:	Sell futures, sell OTM Put option to earn premium
+Risk	:	Unlimited
+Reward	:	Futures price – Strike price + Put premium
+Break-even	:	Futures price + Premium received
+Max-Profit	:	when price goes down and option is exercised
+Max Loss	:	when price goes up and option is not exercised
+
+11. Bullish Strategy: Collar
+View	:	Conservatively Bullish
+Strategy	:	Buy Futures and Buy Put to protect downside,
+Sell Call option to partly finance Put premium
+Risk	:	Limited
+Reward	:	Limited
+Break-even	:	Purchase price of Futures – Call Premium + Put Premium
+Max Profit	:	when price goes up and call option is exercised
+Max Loss	:	when price goes down and Put option is exercised
+
+12. Bullish View: Long Combo
+View	:	Bullish
+Strategy	:	Sell OTM Put and but OTM Call Option
+Risk	:	Unlimited
+Return	:	Unlimited
+Break-even	:	Call Strike Price + Net Premium
+Profit	:	when price goes up and call option is exercised
+Loss	:	when price goes down and put option is exercised
+
+13. Neutral Strategy: Long Strangle
+View	:	The underlying will experience significant volatility
+Strategy	:	Buy slight OTM Call and OTM Put options
+Risk	:	Limited to premium paid
+Return	:	Unlimited
+Break-even	:	Upper BEP = Strike Price of Call + Net Premium
+Lower BEP = Strike Price of Put – Net Premium
+Max Profit	:	when one of the options is exercised
+Max Loss	:	when one of the options not exercised
+
+14. Neutral Strategy: Short Strangle
+View	:	The underlying will exerperience very little volatility
+Strategy	:	Sell OTM Call and OTM Put options
+Risk	:	Unlimited
+Return	:	Limited to premium received
+Break-even	:	Upper BEP = Strike Price of Call + Net Premium
+Lower BEP = Strike Price of Put – Net Premium
+Max Profit	:	both the options are not exercised
+Loss	:	when one of the options is exercised
+
+15. Neutral Strategy: Long Stradle
+View	:	The underlying will experience significant volatility
+Strategy	:	Buy Call and buy Put Option of same strike price
+Risk	:	Limited to premium paid
+Return	:	Unlimited
+Break-even	:	Upper BEP = Strike Price of long Call + Net Premium
+Lower BEP = Strike Price of long Put – Net Premium
+Max Profit	:	when one of the options is exercised
+Max Loss	:	when one of the options not exercised
+
+16. Neutral Strategy: Short Stradle
+View	:	The underlying will exerperience very little volatility
+Strategy	:	Sell Call and Sell Put of same strike price
+Risk	:	Unlimited
+Return	:	Limited to premium received
+Break-even	:	Upper BEP = Strike Price of short Call + Net Premium
+Lower BEP = Strike Price of short Put – Net Premium
+Max Profit	:	when both the options are not exercised
+Loss	:	one of the options is exercised
+
+17. Neutral Strategy: Long Call Butterfly
+View	:	Neutral on direction and bearish on volatility
+Strategy	:	Buy one ITM Call and one OTM Call and sell to ATM Call
+Risk	:	Limited to premium paid
+Return	:	Limited to difference between adjacent strikes – Net Premium
+Break-even	:	Upper BEP = Higher Strike Price – Net Premium
+Lower BEP = Lower Strike Price + Net Premium
+Profit	:	when ITM call is exercised and other options are not exercised
+Max Loss	:	when all options are exercised or Call option is not exercised
+
+18. Neutral Strategy: Short Butterfly
+View	:	Neutral on direction and bullish on volatility
+Strategy	:	Sell one ITM Call and one OTM Call and buy two ATM Call
+Risk	:	Limited to difference between adjacent strikes – Net premium received
+Return	:	Limited to net premium received
+Break-even	:	Upper BEP = Higher Strike Price – Net Premium
+Lower BEP = Lower Strike Price + Net Premium
+Max Profit	:	when all options exercised or all options not exercised
+Loss	:	when ITM Call exercised and other options not exercised.

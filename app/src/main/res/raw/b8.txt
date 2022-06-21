@@ -1,0 +1,12 @@
+Income Tax on Share Trading
+All securities bought and sold after 1st September 2004 attracts Security Transaction Tax (STT).
+
+STT is Security Transaction Tax payable in India on share trading.
+
+Profit on stocks sold within 1 year from the date of purchase is considered as Short Term Capital Gains. Short Term Capital Gains attracts tax and is taxed at the rate of 10%.
+
+Loss on stocks sold within 1 year from the date of purchase is considered as Short Term Capital Loss. Short Term Capital Loss can be offset against short term Gains during the same financial year.
+
+Profit on stocks sold after 1 year from the date of purchase is considered as Long Term Capital Gains. Long Term Capital Gains is being exempted from tax since 1st September 2004.
+
+Loss on stocks sold after 1 year from the date of purchase is considered as Long Term Capital Loss. Long Term Capital Loss cannot be offset against long-term capital gains.

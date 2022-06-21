@@ -1,0 +1,28 @@
+What is Risk Management
+What is Risk Management?
+Risk Management is a method of identifying potential risk in investment & taking measures to prevent it. Know what risk management is, different types of uncertainty in the derivative market & know investors perspective to control the risks..
+
+In the matter of securities trading, NSCCL ensures that obligations of trading members are proportionate to their net worth. It has put in place a comprehensive risk management system which is constantly monitored and upgraded to prevent market failures. It monitors the track record and performance of members and their net worth, undertakes on-line monitoring of members positions and exposure in the market, collects margins from members and automatically disables members if the limits are breached.
+
+Different kinds of risks faced by participants in derivative markets are:
+
+Credit Risk: Credit risk on account of default by counter party. Fortunately, this is almost zero because the NCCL assumes the responsinilities settlement.
+
+Market Risk: It is the risk of loss on account of adverse movement of price.
+
+Liquidity Risk: It is the risk that unwinding of transactions may be default, if the market is illiquid.
+
+Operational Risk: It is the risk that arises out of some operational difficulties, like, failure of power.
+
+Trading Philosophies – Investors perspective:
+Managing risk in securities/stock trading is one of the most difficult skills for an investor to master. Managing risk starts with identifying the type of risk and taking corrective measures to minimize it. If the risk cannot be avoided altogether, its impact on investment portfolio can be controlled.
+
+Making Trend Friend: Approximately 60% of individual stock price movement is attributed to the prevailing trend of the stock market. Stocks rise and fall with market. Hence, being on the right side of the trend is very much needed.
+
+Diversified Portfolios/Holdings: While owning stocks of individual company can offer greater returns at a time, it also exposes to greater risk in event if something goes wrong against that company. Hence, diversifying holdings is one of the best ways to avoid risk associated with holding individual stocks.
+
+Following Stop Loss Discipline: Stop loss discipline suggests the fact that every position, whether buy or sell, should be backed by stop loss which is placed below buying price and above selling price. They should be used to close down the positions should price move against the positions, thereby minimizing the loss. Traders should never ever have naked position which exposes to huge risk.
+
+Covered Call Option: It is an excellent way of creating some downside protection, while increasing the potential return of portfolios.
+
+Protective Put Options: It provides security should long positions fall in price.

@@ -1,0 +1,64 @@
+Bond Market
+Bond is a debt instrument issued by the central/state government, PSUs and Corporate. Governments bonds are of three types. They include:
+
+T-Bills – (matures in less than one year)
+
+T-Notes-(mature in one to ten years)
+
+T-Bonds- (matures in more than ten years)
+
+Debt instruments represent a contract; whereby, one party lends money to another on pre-determined terms pertaining to the rate of interest, the period of such payments and the repayment of principal amounts borrowed.
+
+Bonds and stocks are both securities, but the major difference between the two is that stockholders have an equity stake in the company (i.e. they are owners), whereas bondholders have a creditor stake in the company (i.e. they are lenders).
+
+Another difference is that bonds usually have a defined term or maturity, after which the bond is redeemed whereas stocks may be outstanding indefinitely.
+
+The most common process for issuing bonds is through underwriting. When a bond issue is underwritten, one or more securities firms or banks, forming a syndicate, buy the entire issue of bonds from the issuer and re-sell them to investors.
+
+In contrast government bonds are usually issued in an auction. In some cases, both members of the public and banks may bid for bonds.
+
+The overall rate of return on the bond depends on both the terms of the bond and the price paid. The terms of the bond, such as the coupon, are fixed in advance and the price is determined by the market.
+
+The price of a bond is determined by the forces of demand and supply, as in the case of any other assets. The price of bond also depends on a number of other factors and will fluctuate according to changes in economic conditions, general money market conditions including the state of money supply in the economy, prevailing interest rate, future interest rate expectations and credit quality of issuers.
+
+Features of Bonds:
+Principal:
+Par or face amount is the amount on which the issuer pays interest, and which most commonly, has to be repaid at the end of the term.
+
+Maturity:
+The issuer has to repay the principal amount on the maturity date.
+
+Coupon:
+It is the interest rate that the issuer pays to the bond holders. Usually this rate is fixed throughout the life of the bond. It can also vary with a money market index, such as LIBOR.
+
+Yield:
+It is the rate of return received from investing in the bond i.e., percentage of return on Principal amount, given coupon rate. Yield is also known as borrowing cost. It usually refers either to:
+
+Current Yield which is simply the annual interest payment divided by the current market price of the bond. (Or)
+
+Yield to Maturity which accounts the current market price as well as the amount and timing of all remaining coupon payments coupled with the repayment due on maturity.
+
+The relationship between yield and term to maturity is called a yield curve. The yield curve is a graph plotting this relationship.
+
+The yield and price of a bond are inversely related, meaning when market interest rates rise, bond prices fall and bond yield rises. Likewise, when market interest rate falls, bond price rises and bond yield falls.
+
+Types of Bonds:
+Fixed rate bonds have a coupon that remains constant throughout the life of the bond.
+
+Floating rate bonds have a variable coupon that is linked to a reference rate of interest, such as LIBOR or EURIBOR.
+
+Zero-coupon bonds pay no regular interest. They are issued at a substantial discount to par value, so that the interest is effectively rolled up to maturity. The bondholder receives the full principal amount on the redemption date.
+
+High-yield bonds are bonds that are rated below investment grade by the credit rating agencies. As these bonds are more risky than investment grade bonds, investors expect to earn a higher yield.
+
+Convertible bonds enable a bondholder to convert a bond to a number of shares of the issuer's common stock.
+
+Inflation-indexed bond is an arrangement wherein the principal amount and the interest payments are indexed to inflation. The interest rate is normally lower than the fixed rate bonds with a comparable maturity.
+
+Investing in Bonds are bought and traded mostly by financial institutions like, pension funds, insurance companies, hedge funds, and banks. Insurance companies and pension funds have liabilities which essentially include fixed amounts payable on predetermined dates. They buy the bonds to match their liabilities, and may be compelled by law to do this.
+
+Price changes in a bond will affect the value of the bonds portfolio. The value of the portfolio also falls with fall in bond price. This can be damaging for professional investors such as banks, insurance companies, pension funds and asset managers.
+
+Fixed rate bonds are subject to interest rate risk, meaning that their market prices will decrease in value when the generally prevailing interest rates rise. When the market interest rate rises, the market price of bonds will fall, reflecting investors' ability to get a higher interest rate on their money elsewhere.
+
+Bonds are also subject to various other risks such as call and repayment risk, credit risk, reinvestment risk, liquidity risk, exchange rate risk, volatility risk, inflation risk, sovereign risk and yield curve risk. Again, some of these only affect certain classes of investors.

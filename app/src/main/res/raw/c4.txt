@@ -1,0 +1,31 @@
+Interest Rate Futures
+An Interest Rate Futures is an agreement between two parties with regard to buy or sell a debt instrument at a future date for a price fixed in present.
+
+It is a derivative product wherein financial institutions with interest rate risk can hedge their risk. Underlying in this case is 10 year government bond.
+
+Currently, two types of such bonds carrying coupon of 8.83% and 7.16% are allowed for trading.
+
+In IRF contract, a trader will go long when he expects the price of 10 year underlying bond to rise. In other words, when he believes interest rate will soften or fall. Similarly, he would go short on the expectation of rates to harden or rise.
+
+The price of a bond is determined by the forces of demand and supply, as in the case of any other assets. The price of bond also depends on a number of other factors and will fluctuate according to changes in economic conditions, general money market conditions including the state of money supply in the economy, prevailing interest rate and future interest rate expectations and credit quality of issuers.
+
+Evolution:
+Three exchanges – The NSE, the BSE and the MCX-SX launched current form of IRF trading in Jan.14' after RBI relaxed certain rules like allowing cash settlement based trades.
+
+Earlier, the product was introduced two-three times but had fallen flat. Experts believe allowing financial institutions to bridge the gap in cash and futures market could give big boost to IRF market. A term money market can give rise to robust term-money benchmarks. All banks base rates can be linked transparently to these benchmarks, ensuring convergence between financial institutions and end user benchmarks.
+
+Scrip Code :	716GS2023 & 883GS2023
+Market:	Monday to Friday
+Unit of Trading:	2 lakhs face value of GOI Securities equivalent to 2000 units
+Lot Size:	2000 units
+Tick Size & Tick Value:	0.0025; Rs.5 (2000*0.0025); 1paise/Rs.20; 10paise/ Rs.200
+Expiry:	Last Thursday of the month
+Expiry Months:	Near, Next and Far months
+Settlements:	T+1 basis
+Final settlement:	Annualized FIMDA around 5.15 – 5.30 pm on expiry day.
+Features of IRF:	Available in NSE & MCX-SX.
+The rate of return on bond depends on both the terms of bond i.e. coupon rate which is fixed in advance and the price which is determined by market forces of demand and supply.
+In India, National Stock Exchange and Bombay Stock Exchange offer trading in interest rate futures.
+Interest Rate Futures are primarily used to hedge or offset interest rate risks.
+If one thinks interest rates on one's loans are going to rise, selling a contract in the futures market would help him/her pay for the rising cost of borrowing.
+The value of the contract goes up and comes down as market interest rates rise and fall.

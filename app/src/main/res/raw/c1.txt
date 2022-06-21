@@ -1,0 +1,92 @@
+Equity & Equity Derivative
+Stock market is a financial place which facilitates transactions in securities comprising of corporate and government securities. These are long term, fund raising instruments from public. The various ways of raising funds include:
+
+Intial Public Offer (IPO) under it, funds are raised from the public for the very first time by sharing the ownership.
+
+Follow-on Public Offer (FPO) ) wherein already listed company issues more shares in the public to raise more funds.
+
+Rights Issue is the method of raising additional finance from existing shareholders by offering securities to them.
+
+Of late, the Securities and Exchange Board of India (SEBI) created two new routes for the top 200 listed companies for raising public money and diluting promoter shareholding to meet the minimum public shareholding norms before the deadline. The two routes are:
+
+Offer for Sale (OFS) and Institutional Placement Programmes (IPPs) —allow all companies to reduce the promoter stake through an auction of shares on stock exchanges during normal hours to comply with minimum public holding norms.
+
+Since the OFS and IPP routes allow promoters to sell shares on the bourses with faster regulatory clearances, without much paperwork or the need for road shows, they help companies raise capital faster than other methods, thereby curbing volatility risks
+
+Authorized Capital is the amount of capital with which a company is registered with the registrar. This amount is the maximum amount of capital which a company can raise through shares.
+
+When a company raises funds from more than 50 people, it does not remain a private placement and is labeled as a public issue. For this listing requirements as well as other SEBI norms must be followed.
+
+Section 67 of the companies act construes an offering of shares or debentures to 50 or more persons, as an offer or invitation to the public for which norms listed out in SEBI regulations would need to be followed. These include issuing of prospectus, compliance with the procedures and other disclosure norms.
+
+Developments of aforesaid nature take place in Primary Market while Secondary Market enables stock holders to adjust their holdings in response to changes in their assessment of risk and return which ultimately gives the rise of stock transactions/trading.
+
+Transactions in Cash:
+In a transaction, buying and selling of the same securities take place on same settlement cycle. Any difference in the transactions is paid or received by the traders at the end of settlement cycle.
+
+There are two types of settlement – Intra-Day and Delivery based.
+
+In an Intra-Day transaction, there are no deliverable/receivable positions. All open positions are squared off on the same day. Only fund pay-in/pay-out takes place after two working days of trade.
+
+In a Delivery based transaction, all open deliverable/receivable positions are settled after two working days of trade.
+
+Transaction in Futures:
+A futures contract gives the right to buy or sell a given amount of underlying at specified price and on or before specified date. Both parties of futures contract must exercise the contract unless they are deliverable on or before the settlement date.
+
+Features of Futures Trading:
+Initial margin amount of contract value is required for taking positions which is determined by exchange on the basis of SPAN plus exposure margin.
+Mark-to-profit/loss will be adjusted on daily basis.
+Positions need to be squared off by last trading day of the contract failing which exchange will square off those positions.
+Transactions in Option:
+An option is a contract between two parties to buy or sell a given amount of underlying assets at pre-specified price on or before a given date. There are two types of Option – Call option and Put Option.
+
+Call Option is an option which gives the right to buy the underlying at a specific price on or before a specific date.
+
+Put Option is an option which gives the right to sell the underlying at a specific price on or before specific date.
+
+Buyer of an option by paying option premium buys the right but not the obligation to exercise his option on the seller/writer.
+
+The writer of Call/Put option receives the option premium and thus it becomes obligatory for them to sell/buy the underlying if the buyer wishes to exercise his option.
+
+Features of Option Trading:
+Buying of option requires premium to be paid and selling of option requires margin to be paid.
+The price which option buyer pays to option seller to acquire the right is called an option price or option premium.
+The pre-specified price is called as strike price and the date at which strike price is applicable is called expiration date.
+The asset which is bought or sold is called underlying assets.
+Style of Options:
+American Options can be exercised any time on or before the expiration date. (Binomial option pricing methodology is mainly used to price American Option).
+
+European Optionscan only be exercised on expiry date of contract. (Black and Sholes methodology is used to price European Options).
+
+All index option is European trade options in India and they can’t be exercised in between but they can be sold anytime. All stock options are American options and they can be sold or exercised anytime.
+
+Option Value
+Intrinsic Value of an option is the difference between the spot price and strike price of the underlying i.e.
+Intrinsic Value of Call option = Spot Price - Strike Price.
+Intrinsic Value of Put option = Strike Price – Spot Price.
+Time Value of an option is the difference between its premium and its intrinsic value i.e. Premium – (Spot Price – Strike Price)
+A Call ATM and OTM have only time value. Usually, the maximum time value exists when option is ATM.
+
+In-the-Money Option: An ITM option is an option that would lead to positive cash flow to the holder, if it were exercised immediately. Call option is said to be in ITM when Spot price > Strike price (i.e. higher) whereas Put options is said to be ITM when Spot price < Strike price (i.e. lower/below)
+
+At the money option: An ATM is an option that would lead to zero cash flow if it were exercised immediately i.e. Spot price = Strike price.
+
+Out-of-the Money: An OTM is an option that would lead to a negative cash flow if it were exercised immediately. In case of Call option = Spot Price < Strike Price, then Put Option = Spot Price > Strike Price..
+
+Determinants of Option Price:
+Spot Price of the Underlying Asset, Strike Price, Annualized Volatility, Time to Expiration and Interest Rate.
+
+Option Greeks:
+The change in option price when a particular price determinants changes, is expressed as Option Greek. Some of important option Greek is as given below:
+
+Delta: It is the rate of change of option price i.e. premium with respect to the price of the underlying asset.
+
+Delta of long call option and short put is always positive and ranges between 0 and 1 and long put and short call is always negative and ranges between 0 and -1.
+
+Vega: It measures the rate of change of option value to volatility of price of the underlying asset. It is always positive for long options and negative for short options.
+
+Theta: It measures the change in the value of option with respect to passage of time. All other things remaining the same, the option would lose value with passage of time.
+
+Rho: It measures sensitivity of option value to the risk free rate.
+
+Gama: It is the rate of the option’s delta with respect to the price of the underlying asset.

@@ -1,0 +1,60 @@
+Sustainable growth
+As investors in the stock market, it is very important to choose a company after analyzing many factors. Other than fundamental and technical factors, growth rate of the company is an essential factor that has to be taken into consideration while choosing to invest in a company.
+
+We need not be experts in accounting in order to understand the financial strength of the company. Just basic calculations will help us in analyzing the company on various important aspects. Since we invest money in the shares for a longer time, we should focus on the sustainability of the business. Basically, we should know the expected percentage of growth of the company in the future. If the growth is high, then in turn the profits will be high which will result in more returns to the investors.
+
+What is sustainable growth rate? Sustainable growth rate implies how well the company can grow in the future without depending on any extra financing in terms of equity or debt and instead using its own resources. Sustainable growth meaning gives a clear vision to the company’s management on what it should focus on for the expected growth rate.
+
+Sustainable growth rate formula:
+SGR = Retention ratio*Return on Equity
+
+Retention ratio = 1- dividend payout ratio
+
+Retention ratio is that portion of the company’s earnings that is remaining after all dividends are paid and that which can be used by the company to fuel its growth.
+
+Return on Equity (ROE) = Net Income/ Total shareholder’s equity
+
+You can easily find out ROE and dividend payout ratio from the company’s financial statements. Let us understand the sustainability growth rate with an example. For example, a company pays a dividend payout ratio of 30% and its ROE is 20%. How to calculate sustainable growth of this company?
+
+Retention ratio	= 1-dividend payout ratio
+= 1-0.03
+=0.70
+SGR = Retention ratio*Return on Equity=0.70*0.20
+
+SGR = 14%
+
+This means that the company is poised to grow at a rate of 14% every year and any growth higher than this will require external financing.
+
+Sustainable economic growth is very important in case of a country as well as it is the rate of growth which the country should maintain by utilizing its natural resources in a sustainable manner so as to preserve it for future generations. Economic development should happen without depletion of natural resources as this will lead to serious consequences.
+
+Conditions to be maintained for sustainable business:
+Any company should have clarity of purpose with regards to its business.
+Creating a strong brand presence and also retaining customers.
+Sale processes should be designed and planned in such a way that can lead to repeatable sales.
+Importance should be given to high margin products.
+Inventory has to be managed properly.
+Why self-sustainable growth rate declines?
+After some point of time, it becomes difficult for the companies to maintain the sustainable growth rate. There are many reasons that lead to a dip in sustainable growth rate:
+
+When companies keep reducing prices at the cost of profitability
+Competition in the market
+Saturation of a product in the market
+Poor long term planning
+Economic conditions
+Sustainable growth rate meaning and expected growth rate:
+Why should a company or investor be interested in sustainable growth rate? There are 2 possible scenarios with respect to expected growth rate and sustainable growth rate.
+
+Scenario 1:
+Let’s say a company wants to achieve a growth rate of 18%. However, the company’s sustainable growth rate is only 14%. What does this mean? The growth rate expected is greater than the projected sustainable rate. The current plans and policies of the company will never help the company to achieve its desired growth rate. It’s a reality check for the company to understand its growth rate and make changes that can take the growth rate further as expected. For this, the company has to reduce dividends that are paid.
+
+Scenario 2:
+What should the company do if its growth rate is lesser than the projected sustainable growth rate? The company should increase its dividend payments. Thus, understanding sustainable growth rate definition helps the company in knowing what kind of approach it needs to take regarding raising capital and also dividend payment.
+
+Significance of sustainable growth rate:
+Indicates the particular stage of life cycle in which the company exists currently.
+Helps the company to identify appropriate strategies for achieving financial objectives.
+Aids the company to devise competitive strategy.
+Helps creditors to analyse the credit worthiness of the company.
+All of us wish to invest in companies that would be successful and in turn generate more profits. Before you invest shares in a company, calculate and compare the sustainable growth rate of several companies in the same sector and then choose a better company.
+
+Sustainable growth rate is one of the major parameters to analyse the performance of the company in the longer run. By calculating this rate, one can find out the future growth prospect of the company. Both higher growth rate as well as lower growth rate can have their pros and cons. Higher rate can have an impact over the business resources while lower growth indicates that the company is less competitive and also sustainability of the company becomes a question mark in this case. To overcome these scenarios, the company should focus on its sustainable growth rate.

@@ -1,0 +1,60 @@
+What are Shares and Types of Shares
+To know shares and its types, one must have a basic knowledge about shares and its role in a company. Shares are an instrument for raising capital for a business by distributing it to investors.
+
+Shares meaning and Types:
+A share is referred to as a unit of ownership which represents an equal proportion of a company’s capital. A share entitles the shareholders to an equal claim on profit and losses of the company. There are majorly two kinds of shares i.e. equity shares and preference shares.
+
+Different types of shares
+As per section 43 of the Companies Act 2013, the share capital of the company is of two types:
+
+Preference Share Capital
+Preferential shares are preferential in nature. During the liquidation of the company, the shareholders holding preferential shares are paid out first after settling the debts of the creditors of the company. Also, preferential shareholders do not have any voting rights. Various types of preferential shares are seen based on structure, maturity terms, nature of dividend payment, etc. below are some common types:
+
+Cumulative Preference Shares:
+
+Arrear will be received in subsequent years
+At the time of inadequate profit, you will not lose anything.
+The fixed rate of dividend is guaranteed.
+Non-cumulative Preference Shares:
+
+At the time of inadequate profit, they will not get anything.
+Fixed rate of dividend is guaranteed.
+Participating Preference Shares
+
+Entitled to share the surplus profit
+Fixed rate of dividend is guaranteed
+Non-participating Preference Shares:
+
+Does not share the surplus profit.
+Fixed rate of dividend is guaranteed.
+Convertible Preference Shares
+
+It can be converted into Equity shares within a certain period.
+Non-convertible Preference Shares:
+
+It cannot be converted into Equity shares.
+Redeemable Preference Shares:
+
+Shares which a company may repay after a fixed period of time or earlier.
+Irredeemable Preference Shares:
+
+Shares are repayable only at winding up.
+It does not carry the arrangement for redemption. .
+Equity Share Capital:
+Equity Shares are also known as ordinary shares. Equity shares are one of the most common types of share. These are equal in value and also impart various rights like voting rights, dividends, etc. to the shareholders. These shares are traded in stock exchange and are issued at a face value.
+
+Why are shares issued by a company?
+Issuing shares in share market can provide the following advantages:
+
+New finances
+Market valuation for the company
+A mechanism for an investor to trade shares
+Why invest in shares?
+When an investor invests money in the stock market, it has the potential to grow rather than keeping money in a savings account. There are two ways through which you can make money from shares i.e. capital gains and income.
+
+How to buy shares?
+To buy shares you have to hold a  Demat account is an account that holds your shares and securities in an electronic form. Following documents are required to open an account:
+
+PAN card
+E-Aadhaar
+Canceled cheque

@@ -1,0 +1,29 @@
+Exchange Traded Funds
+An ETF is a basket of securities that trade like stocks and are listed on an exchange throughout the day at prices that change based on supply and demand. As ETFs trade like a stock, an ETF does not have its net asset value (NAV). The difference between ETFs and other types of index funds is that ETFs don’t try to outperform their corresponding index, but replicate its performance. Though ETFs have been in existence for quite some time, they haven’t gained the kind of popularity that the conventional Mutual Funds enjoy.
+
+There are various types ETFs are:
+Gold ETF:
+Gold ETFs are units representing physical gold which may be in paper or dematerialised form. These units are traded on exchange like a single stock of any company. They offer investors a mean of participating in the gold bullion market without the necessity of taking the physical delivery of gold.
+
+Index ETF
+Index ETF is the type of ETFs whose value is derived from an index.
+
+Various types of Index ETFs available:
+NIFTY BeES: An ETF launched by Benchmark mutual funds in Jan 2002.
+Junior BeEs: An ETF on CNX Nift Junior, launched by Benchmark mutual Fund in Feb 2003.
+SUNDER: An ETF launched by UTI in July 2003.
+Liquid BeEs: An ETF launched by Benchmark Mutual Fund in July 2003.
+bank BeEs An ETF launched by Benchmark Mutual Fund in May 2004.
+Shariah: Goldman Sachs CNX Nifty Shariah Index Exchange Traded Scheme lanunched on August 22, 2011.
+International ETF:
+International ETF invests in foreign-based securities. These ETFs have an international index like NASDAQ, HANG SENG as the underlying tracking instrument.
+
+Sector Specific ETF:
+These ETFs have a specific sector such as infrastructure and bank as the underlying tracking instrument.
+
+Advantages of ETF:
+Trading in ETF is convenient as it is traded during market hours.
+Costs of distribution are lower and the reach is wider as an ETF is listed on an exchange
+It is possible to purchase single unit in ETF
+Similar to the index fund ETFs have high transparency.
+Minimum investment is one unit

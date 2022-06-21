@@ -1,0 +1,36 @@
+Stock Market Index
+The stock market index is a statistical measure that shows changes happening in the stock. Now you may have a question, how is the index created? Similar kinds of stocks are picked from already listed securities on exchange and are grouped together.
+
+The criteria for stock selection can vary on:
+
+Type of industry
+Market capitalization
+Size of company
+Its value is computed using the values of the underlying stocks. Any change in the underlying stock prices impacts the overall value of the index. There are two scenarios- if the price of most underlying assets increase, then the index will increase whereas if the prices of most underlying assets decrease, then the index will decrease. This is the way the stock market index reflects the overall market sentiments and the direction of price movements.
+
+Questions like what is index in the stock market may come to your mind? Let’s have a look at it and know why it is required.
+The stock market index acts like a barometer that shows the overall conditions of the market and also facilitates the investors in identifying the general pattern.
+
+List of notable Stock Market Indexes in India:
+Benchmark indices: NSE Nifty and BSE Sensex
+Broad-based indices: Nifty 50 and BSE 100
+Indices based on market capitalization: BSE Small-cap and BSE Mid-cap
+Sectoral indices: Nifty FMCG and CNX IT
+The indexes are required due to the following reasons:
+Aids in Stock-Picking
+Acts as a Representative
+Parameter for Peer Comparison
+Reflects Investor Sentiment
+Helps in Passive Investment
+How index value is calculated?
+The value depends on the weighted indexes which are:
+
+Price weighted index: In this method, index value is calculated on the company’s stock price and not market capitalization. The stocks with high prices have high weightage in the index than stocks with low prices.
+Market-cap weighted index: In this method, the total market value of the company’s stock is calculated by multiplying the number of outstanding shares that the company offers with the current market price of a single share. It considers both the size and price of stock while calculation.
+As we have understood about the weighted indexes, now let’s look at the steps to calculate index value:
+
+Calculate the total free float value of the index
+Check the base value of the index, it is the total market capitalization of the index when it was formed initially
+Divide total free-float market capitalization with the base market capitalization value and multiply it by base index
+Note: in Sensex, the base index value is 100.
+Index value= (Total market capitalization / Base market capitalization value)* Base index value

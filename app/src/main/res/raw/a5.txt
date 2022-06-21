@@ -1,0 +1,53 @@
+How to read stock charts for beginners?
+Understanding the stock market chart and picking stocks is a hard task. If you are new to investing, you would probably agree that reading a stock chart is not all that exciting, but to find a viable investment for your portfolio it is a core skill that is needed. Therefore, now let us learn about stock market charts and how to read share chart.
+
+What is share market chart?
+Be it a share market chart or a technical chart, it plays a very important role in identifying the current trends and trends reversal. Also, to trigger the buy and sell signals it plays a crucial role. The chart pattern is a distinct formation that creates a trading signal and a sign of future price movements in a graphical presentation. It can get you a glance at stock prices over a set time frame or for a year if you want each point representing the closing price for each day the stock is traded.
+Types of share market chart and how to read technical charts of Indian stocks:
+Chart	Description	
+Head And Shoulder
+It is a reversal chart pattern and it signals the movement of securities i.e. if it is likely to move against the previous trend:
+
+Top: It is formed at the high of an upward movement and signals the upward trend is about to end
+Bottom: It is also known as an inverse signal and a reverse in a downtrend.
+Head And Shoulder
+Daily Bar Charts
+The most commonly used chart by traders. It provides various important trading information about stocks and prices i.e.
+
+Opening price
+Closing price
+The highest price that it touched on the day
+The lowest price that it touched on the day
+Here, the vertical line represents the range whereas the horizontal line- pointing left shows the opening price and the horizontal line- pointing right shows the closing price.
+
+Daily Bar Charts
+Line Chart
+It is a chart that keeps a record of each day's closing price. It is plotted on a daily basis and eventually forms a line.
+
+Line Chart
+Candlestick Chart
+It reflects the price related data in a different format, it is divided into two parts and each represented by one line. The thin line shows the price range from high to low and the real body shows a wider area that helps to compute the difference between the closing and opening price.
+
+Candlestick Chart
+Point And Figure Chart
+A graphical representation of stock prices. It does not plot price against time as time based charts do but it plots price against changes in direction by plotting a column of Xs when the price rises and a column of Os when the price falls.
+
+Point And Figure Chart
+How to read stock market charts patterns
+Identify the chart:
+Identify the charts and look at the top where you will find a ticker designation or symbol which is a short alphabetic identifier of a company. It is important to have a correct symbol while looking for the company’s information.
+
+Choose a time window:
+This can be done on a daily, weekly monthly or yearly basis; depending on where you are accessing the chart you can choose the view. Looking at different timescale will help in identifying longer and shorter-term trends and check on consolidation. Remember and note the price on any given day and look for consolidations in the days that follow and check whether they form above or below the price.
+
+Note the summary key:
+You must also check the summary key as it will give you the key information from the chart in numerical values that you can read quickly. The summary must at least give you the latest price, the price moving averages and the volume traded.
+
+Track the prices:
+The chart is divided into two sections upper and smaller lower which guides on the prices. The upper part tracks the changes in the price of stock over the period. The prices are often shown with different colors like if the stock closed up on a particular day, the marker may be black. Whereas the price at which the stock closed may be marked in red.
+
+Note the volume traded:
+In the bottom, you will find the volume of stock traded. It will help to determine when there is particular momentum, positive or negative, in the market with color-coded bars. The color-coding is not fixed therefore requires careful reading. The color refers to the up and down of closing price with the previous day closing price.
+
+Look at the moving averages:
+It is a calculation of the stock average price of a period of time that is constantly adjusted as time goes by, it is a key tool in stock analysis. In charts, these are generally indicated by lines cutting across the chart. It can help in identifying a trend pattern but there may be some lag as they refer to past prices.

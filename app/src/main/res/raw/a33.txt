@@ -1,0 +1,20 @@
+Call Option and Put Option
+Derivatives are used mainly for hedging purpose and let us read about option contract which is a type of derivative in this article. People enter into option contracts mainly to reduce risk. Option contract buyer has the right to buy or sell the underlying asset at a specific price. But there is no obligation attached to it. Option contract seller has the obligation to buy or sell the underlying asset as per option contract buyer’s decision. Options are of 2 types namely call option and put option. Let us learn about the difference between call option and put option in detail in this article. Before that you should know certain terms such as strike price, spot price, premium, expiry date.
+
+Strike Price: The price at which the contract is made between the buyer and seller of the contract is the strike price.
+
+Spot Price: The price at which the asset trades in the cash market. i.e. the current market price.
+
+Premium: This is the amount that has to be paid by the buyer of the contract to the seller of the contract.
+
+Expiry Date: This is the last date of the option contract before which the option buyer can use his option to buy or sell the underlying asset.
+
+Contract Cycle: Usually, the contract cycle is of 3 months which expires on the last Thursday of the particular contract month.
+
+Call option
+There are always two parties to the contract and in this case it is a call option buyer and a call option seller. The call option buyer has the right to buy the underlying asset at a specific price. But he has no obligation whereas a call option seller has the obligation to sell the contract as per call option buyer’s decision. We will understand this in a simple manner using an example. Mr. A buys a call option contract from Mr. B wherein the strike price of the particular underlying asset is Rs. 500. If the spot price of the particular asset becomes Rs. 1000, then Mr. A would prefer to buy the asset from Mr. B and sell it in the market at Rs. 1000 thereby earning a profit of Rs. 500. But if the spot price becomes Rs. 800, Mr. A would buy the particular asset from the market rather than from Mr. B. Call buyer has to pay a premium to the call seller. The call buyer faces limited loss as his loss is limited to the premium he paid but the loss in case of call seller is unlimited.
+
+Put option
+Like the call option, here also there are two parties such as put buyer and put seller. The put option buyer has the right to sell the underlying asset whereas the put option seller has the obligation to buy it. The loss is limited to premium in case of put option buyer whereas the put option seller could suffer unlimited losses. Let us see this with an example. Mr. Ajay feels that the price of a particular stock would go down and hence buys a put option contract. He pays a premium to the put option seller Mr. Kumar and buys the contract. If he had entered the contract at Rs. 1000 but the spot price of the stock becomes Rs. 700. In this situation, Mr. Ajay would sell the contract to the put option seller at Rs. 1000 and earn a profit of Rs. 300.
+
+In simple terms, call option buyer and put option seller is bullish whereas put option buyer and call option seller is bearish. Option trading is not that difficult to understand and you can learn it gradually by reading many books and by beginning to use option strategy. Hope you understood the difference between call and put by reading this article.

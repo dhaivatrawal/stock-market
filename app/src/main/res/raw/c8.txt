@@ -1,0 +1,107 @@
+Fundamental Analysis
+The fundamental analysis focuses on finding the intrinsic value of stock and which in turn, depends on earning potential of the stock. The earning potential of stock depends on fundamental factors such as, quality of management, outlook of the industry and the state of domestic and global economies and so on.
+
+Fundamental analysts try to find company's intrinsic value by looking at balance sheet, cash flow statement and income statement of particular company at micro level and performances of domestic and global economies on macro level.
+
+Balance Sheet:
+
+It offers a snapshot of a company's health. It tells how much a company owns (assets) and how much it owes (liabilities). Assets comprises of current assets (i.e. cash, inventories and account receivables) and fixed assets (i.e., plant & equipments, property). Liabilities too have got two kinds which include current liabilities (i.e. obligations to be paid within a year time) and long term liabilities (i.e., obligations such as debt to be paid in more than a year time).
+
+Cash Flow Statements
+
+It shows how much cash flow into and out of a company over the quarter or year period. Cash flow is divided into three sections including operations, financing and investing.
+
+Income Statement:
+The most frequently used ratios which provide insight into a company are:
+
+1. Liquidity Analysis
+Current Ratio = Current assets/Current liabilities
+Quick Ratio = Current assets - Inventories/Current liabiliries
+
+2. Debt Analysis
+Debt-to-equity ratio = Total debt/Total equity
+Debt-to-asset ratio = Total Debt/Total assets
+The aforementioned ratio analysis shows the company's reliance on external source for financing.
+Interest Coverage Ratio = EBIT/Annual Interest Expense
+Cash flow coverage = Net cash flow/Annual interest expense
+
+3.Profitability Analysis
+Net Profit Margin = Profit after tax/Sales
+Return on equity = PAT/Shareholder's equity
+Return on assets = PAT/Total assets
+Earning Per share (EPS) = PAT-Dividend/Outstanding shares
+Payout Ratio = Cash Dividend/Net Income
+
+4. Efficiency Analysis
+Inventory Turnover = Cost of goods sold/Average inventory
+Total Asset Turnover = Sales/Average total assets
+
+5. Value Ratios
+Price-to-Earning Ratio = Market price per share/Earning per share
+Dividend Yield = Annual dividends per share/Market price per share
+
+Decription of some key ratio analysis as mentioned above are as given below
+1.Earning Per Share ( EPS): It denotes the amount of earning for each outstanding share. It is calculated as net earning divided by total outstanding shares.
+
+2.Price-to-Earning Ratio (P/E Ratio): ): It indicates whether stock is priced relatively high/low to its earning and company with high P/E ratio is believed to be expensive and vice-versa. It is calculated as market price of a share divided by earning per share.
+However, P/E ratio does not tell full story. Normally, companies with high earning growth are traded at higher P/E values than companies with moderate growth rate. Accordingly, if the company is growing or expected to grow rapidly, current market price might not seem so expensive.
+
+3.Price-to-Book Ratio (P/B Ratio): A price to book ratio is used to compare stock's market value to its book value. It is calculated as current share price of share divided by the book value per share.
+It can also be calculated as the total market capitalization of the company divided by all the shareholders equity.
+
+4.Net Profit Margin: It measures how much the company keeps in earnings out of every rupee for their earnings. It is calculated as net profit after tax divided by net sales in given year.
+
+5.Return on Equity (RoE): It is a measure of how well a company uses reinvested earnings to generate additional money. It is calculated as net income divided by equity capital.
+
+6.Return on Capital Employed (RoCE):  It is a measure of the returns that a company is realizing from its capital. It is calculated as net profit divided by capital employed.
+
+7.Debt to Asset Ratio: This tells that how much company rely on debt to finance assets.
+
+8.Debt to Equity Ratio: It measures a company's financial leverage.
+
+9.Operating Cash Flow Margin:This is a measure to know whether current cash flow can support the expenses.
+
+10.Sales to Cash Flow Ratio: An indicator of the financial strength of the company. The ratio looks at sales in relation to cash flow, the higher the value of this ratio, stronger the company.
+
+11. Profit After Tax (PAT): It arrived at by deducting expenditures (cost of materials, manufacturing expenses, overheads, interest and depreciation) from income (net sales plus other income) and providing for taxation and investment allowances reserve on the amount.
+
+12. Earning Before Interest, Tax, Depreciation and Amortization (EBITDA): is found out by deducting operational expenditures from sales.
+
+13. Discounted Cash Flow: This method is based on premise that the current value of a company is simply the present value of its future cash flow that is attributable to shareholders. It is calculated as:
+DCF = CF1/(1+r)1 + CF2/(1+r)2 + ...........CFn/(1+r)n
+
+14. Dividend Discounted Model (DDM): It focuses on dividend that the company pays to shareholders. Conceptually, DCF and DDM are the same, as DDM focuses on dividend payments whereas DCF focuses on cash that can be paid to shareholders after all expenses and debt repayments have been met.
+
+Fundamental analysis is all about analysing economy, industry and company. It is past or expected sales and earnings data, government policy and regulations towards industry, labour conditions, international and domestic investing communities’ attitude etc. which affect market movements.
+
+Given the significance of macro data under present globalized economy, it is very important to predict the course of domestic and global economies as economic activities affect the corporate profits, investor's attitude and expectations.
+
+Events favourable to economy like, high economic growth, stable government, favourable budget, favourable demographics, social harmony, rising income and expenditures etc., can fuel euphoria amongst investors class resulting into boom in market. On the other hand, unfavourable events like, economic slowdown, unstable government, unfavourable fiscal deficit, trade deficit, geo-political tensions, social tensions, falling production, low income, low expenditures etc. depress the market sentiment resulting into recession in economy thereby negative performance from equity markets. At broader level, all these things can be ascertained by doing appraisal of socio-economic and political factors which help us gauge the health of economies.
+
+While socio-political changes are somewhat of static in nature and changes in these take place only after certain period of time, economic changes are dynamic and changes regularly.
+
+The leading macro-economic data which are evaluated or appraised for gauging health of economy, consist of
+
+Gross Domestic Product (GDP): It’s a measure of money value of product and services produced within the territory of particular country by the residents and non-residents.
+
+Balance of Payments (BoP): It measures the flow of foreign currencies and is comprised of – Current Account and Capital Account.
+
+Current Account:  It incorporates trade in goods and services, investment income and transfer.
+
+Capital Account:  It includes portfolio flows. Such as purchase of equities and bonds or direct investment activities.
+
+Budget Deficit: It’s a difference of total income and expenditures. Situation of higher expenditure causes budget deficit while higher income causes budget surplus. An economy with budget surplus is believed to strong economy while economy with budget deficit, is believed to be weak economy.
+
+Fiscal Deficit: It is difference of total income i.e. revenue receipts and total expenditures including, borrowings, net payments and other liabilities.
+
+Interest Rate/Credit Policy: RBI evaluates prevailing domestic and global economic factors and then decides on credit policy aiming at ensuring growth of economy with stability. Under different economic conditions, Central Bank pursues different credit policy. If economy is experiencing hyper growth and there is fear of hyper inflation taking place then it adopts to tighter credit policy whereas in a situation wherein economy has been experiencing sluggish growth and inflation is also low, it follows to easing credit policy to give boost to economy.
+
+Employment: : Employment is one of the key measures to judge the health of economy. Only growing economy can provide for employment opportunities, while deteriorating economy will have rising jobless claimants.
+
+ISM Manufacturing: Growing manufacturing activities indicate growing demand at the same time growing employment.
+
+Index for Industrial Production (IIP):It’s a broader measure of economic activities in different manufacturing sectors including, industry, mining, electricity etc.
+
+ISM Services: In a growing economy, sectoral contributions to GDP keep on changing. Rising contribution of service sectors not only indicates to rising employment but also to growth in industry and manufacturing activities.
+
+Inflation: Inflation has got two major components which include demand-pull inflation and cost push inflation. Demand pull inflation is something industry welcomes, while cost push inflation causes slow down in economy. The broader measures of inflation include CPI, PPI and WPI. Inflation influences credit policy to great extent.

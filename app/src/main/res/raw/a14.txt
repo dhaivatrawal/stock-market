@@ -1,0 +1,24 @@
+Stop Loss
+During online share trading you may come across few unfamiliar terms like stop loss or stop loss order. So, let’s have a look what is stop loss? And how stop loss works in share market?
+
+Stop Loss Meaning:
+Stop loss is an automatic order to buy or sell securities once the specific price is reached which is commonly known as stop price. In stop loss, the order is automatically executed. This method is used by investors to limit his or her losses. The concept of stop loss can be used for short term as well as long term trading. By placing a stop loss order, the investors instruct the broker or an agent to sell off the security when it strikes a set price limit.
+This is a concept or tool used for short term investment planning. When investors are busy or do not want to monitor securities on a daily basis, this is very useful. Here, the trade gets automatically triggered and in advance the limits are decided.
+
+Advantages of stop loss:
+It provides protection from excessive losses
+Enables investors for better control of their account
+Helps to monitor multiple deals
+Automatically executed
+Easy implementation
+Allows you to decide the amount you are willing to risk
+Promotes discipline
+What is stop loss in share trading?
+To reduce your losses, it is important to properly use sell stop and sell stop limits. Stop loss trading tools help investors in simplifying the decision making process. It is also known as stop order or stop market order. There are many variations of stop loss order and each having a different objective:
+
+Sell Stop Order: It is used to limit losses or protect gains when the price of a stock decreases. It has a stop price that is below the current market price.
+Buy Stop Order: It is used to purchase stocks as insurance against loss or protect gains from a short sell. It has a stop price that is above the current market price.
+Trailing Sell Stop Order: Under this, the stop parameter is based on a trailing change in the actual decrease in the stock’s price. It is used to maximize profit when a stock's price increases, or minimize a loss when the stock prices are decreasing.
+Trailing Buy Stop Order: Under this, the stop parameter is based on a trailing change in the actual increase in the stock’s price. It is used to maximize profit when a stock's price decreases, or minimize a loss when the stock prices are increasing.
+Stop-Limit Order: It is an order combination of a limit order as well as a stop order. With stop limit order, when the stop price is reached, the instruction is a limit order to buy or sell securities at the specified price.
+Setting of stop loss order is a very easy process. All that is required is to visit your application wherein you will find an option- “Add Stop Loss”, click on it and choose the amount or set an exact rate.

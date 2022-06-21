@@ -1,0 +1,23 @@
+ROCE- Meaning, Importance & ROCE Formula
+Investing in stocks is not very difficult and one can learn it through experience or take the guidance of stock market experts and equity advisors. You have to analyze a company both on a fundamental and technical basis to understand the stock price movement and also check the background of the company, analyze the financial strength, compare profitability ratios of various companies before choosing to invest in a company. Some of the profitability ratios are return on assets, return on equity, return on capital employed, etc. Let us try to learn about return on capital employed ratio and its significance.
+
+What is return on capital employed (ROCE):
+While investing in a company, you should be aware of many factors and should spend time in reading the financial statement and balance sheet of the company to understand the numbers like EPS, PE, ROE and ROCE. Proper knowledge of these will help you invest in the right company that will yield better returns. ROCE is return on capital employed and it measures how a company uses its capital to generate profits. Any investor should know roce meaning before investing in a company.
+
+ROCE formula:
+Return on capital employed formula is easy and anyone can calculate this to measure the efficiency of the company in generating profit using capital.
+
+ROCE = EBIT/Capital Employed (wherein EBIT is earnings before interest and taxes) EBIT includes profit but excludes interest and tax expenses.
+
+Capital Employed = Total Assets – Current Liabilities
+
+Capital employed is found out either by reducing current liabilities from total assets or addition of fixed assets and working capital requirement.
+
+Just comparing companies’ EBIT values alone will not help in choosing the right company. Let us learn this with an example. Company A’s EBIT is 10 cr on sales of 500 cr while company B’s EBIT is 20 cr on sales of 500 cr in a year. We may think company B is a good investment as the EBIT is higher. But that’s not the right way to decide on the company. One has also analyze ROCE of both the companies to understand which company offers better profits.
+
+If the capital employed by company A is 750 cr while company B used 1500 cr as capital, ROCE in case of company A is 6.6% and in case of company B it is 5%. You can see clearly that eventhough the company B’s EBIT is higher than that of A, ROCE is higher in case of company A than company B. You as an investor should never be in a hurry to choose a company simply based on EBIT alone. Return on capital employed calculator is also available with which anyone can easily find out ROCE.
+
+What does higher return on capital mean?
+Companies with higher roce in share market indicate that these companies employ capital in an efficient manner thereby generating higher profits. It also shows that the company’s cash flow is strong. Investors should analyze ROCE of a company for several years as there should be a consistency in it. ROCE also depends on various factors such as the sector to which the company belongs to, the age and size of the company, etc.
+
+ROCE of many companies within the sector can be compared to understand which one is better. When you try to invest in capital-intensive companies, ROCE will help you in a greater way. ROCE has always to be more than the rate of borrowing. There are some disadvantages as well in case of ROCE as it is mainly based on historic data and investors should not depend on this ratio alone to choose a company. Roce calculation is very easy and you have to compare this with various companies to get a proper idea about how your chosen company is generating profits. ROCE is one of the essential parameters that has to considered before buying shares of a company.

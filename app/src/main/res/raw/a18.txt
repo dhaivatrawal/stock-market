@@ -1,0 +1,32 @@
+ROC and ROCE – Know the Difference Between ROE & ROCE
+All of us have financial goals in life and so we invest in large, mid or small cap companies for a longer period of time that will help in getting better returns. Many invest in a hurry without knowing the companies well and hence suffer losses. Is it not important to evaluate a company on many parameters before investing our hard earned money into it? We need not be experts in accountancy or maths to know the profitability of a company. But basic knowledge is necessary. Balance sheet, financial statements, etc. of the company provide us with all the necessary information. One has to be an informed investor to decode the numbers and understand the financial strength and sustainability of the company.
+
+As an investor, you should have knowledge about the profitability ratios such as EBITDA margin, operating profit margin, net profit margin, ROA (return on assets), ROE (return on equity), ROCE (return on capital employed), etc. Let us read in detail about two major ratios ROE and ROCE and understand ROCE vs ROE as well.
+
+ROE:
+ROE can be used to understand how the company uses its equity for the growth of the business. If ROE increases over a period, it simply means that the company increases shareholder value by reinvesting its earnings in order to make more profits. If ROE is less, it means that the company does not have an efficient management and hence makes mistakes on reinvesting earnings in unproductive assets.
+
+ROE formula:
+ROE = Net income/shareholders’ equity
+
+ROE tells how much money the company makes based on the money invested by investors in the company. Companies with high ROE are preferred by investors as they know that these are capable of providing higher profits.
+
+You should also know that whenever the value of shareholders’ equity decreases, ROE increases. Higher ROE means that the company is efficiently using shareholder’s equity. It also shows that the company is using its retained earnings in an efficient manner. If the company maintains its profits and also if there is an increase in ROE, this indicates that the company is using retained earnings to generate revenues. On the other hand, if the company keeps retained earnings in its reserves, then ROE will start decreasing. Let us also learn about ROCE now to understand the difference between the two.
+
+ROCE:
+ROCE simply indicates how efficiently a company generates profit by using its capital.
+
+ROCE formula:
+ROCE = EBIT/Capital Employed
+
+EBIT - Earnings before interest and taxes
+
+ROCE is mainly used to understand the financial strength of different companies within the same sector. Merely using EBIT to choose a company for investment is not a good idea. Profitability ratios like ROE and ROCE of companies have to be analysed to know the real picture. The higher the ROCE, the higher the probability of profits. Lenders, debt holders are also taken in to consideration in calculating ROCE. And this ratio is used to evaluate the performance of companies with significant debt.
+
+ROCE vs. ROE:
+Features	ROE	ROCE
+Evaluates	The efficiency of the company in using shareholder's money.	The efficiency of the company's business operations.
+Significant	Significant from investor's perspective.	Significant from company's perspective.
+Profitability of	Equity shareholders	Equity and debt shareholders
+Formula	ROE = Net profit/Shareholders' equity	ROCE = EBIT/Capital employed
+It is very essential to know the difference between equity and capital employed to cherry pick stocks for investment purpose. If you do not have time, you can take the guidance of stock experts and equity advisors to choose the right stocks based on your objectives and time horizon. Investing has to be done in a very careful manner after conducting a thorough research of the company. Constant monitoring of the performance of the stock is also needed which will help you in removing underperforming stocks and adding outperforming stocks to your investment portfolio. When it comes to investing in stocks, logical and rational decisions have to be taken instead of emotional decisions. The investing guru Warren Buffett prefers to invest in a company whose ROE and ROCE are close to each other. In other words, he would choose a company that rewards its lenders and shareholders as well.

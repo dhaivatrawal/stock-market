@@ -1,0 +1,43 @@
+What is MCX Trading
+Most of us are aware of equity trading but very few of us are well informed about trading in commodities. Let us look at the commodity market in this article.
+
+Commodity trading is mainly done as part of a diversification strategy. This kind of investing in various assets helps in mitigating risk which will help you to reduce loss. Like the saying, “Don’t put all eggs in one basket”, investors should invest in shares, bonds, commodities, currencies, etc. to get better returns.
+
+Hard and soft commodities are traded in the  Commodities that are mined fall under this category, namely gold, crude oil. These commodities can be stored easily and are not affected by weather or climatic conditions. Global economic factors, industrial production, etc. affect the prices of hard commodities. Agricultural commodities are referred to as soft commodities and the prices of these are affected majorly by weather. Examples are soybean, guar, wheat, etc. Only after proper research, one must start investing in the commodity market
+
+Major Commodity exchanges in India:
+MCX (Multi Commodity Exchange)
+NCDEX (National Commodity and Derivatives Exchange of India)
+NMCE (National Multi Commodity Exchange)
+ICE (Indian Commodity Exchange)
+What is MCX:
+First it is important to know mcx full form: Multi Commodity Exchange. It is an online platform wherein commodities like gold, silver, lead, copper, zinc, crude oil, etc. are traded. MCX has its headquarters in Mumbai and started to function in 2003. It is the largest commodity futures exchange in India. Forward Markets Commission (FMC) was the regulator of MCX till 2015 after which FMC was merged with SEBI.
+
+What is MCX Trading:
+Buying and selling of commodities happens over MCX. They are physical settled, or cash settled. SEBI, the regulator of MCX has made physical settlement of stock derivatives mandatory recently.
+
+Margins in commodity trading:
+1. Initial Margin
+2. M2M Margin
+3. Special Margin
+Initial Margin:
+This is the minimum amount you have to pay to enter the futures contract.
+
+M2M Margin:
+Profit or loss is adjusted on a day to day basis by means of Mark-to-market margin. If you earn profit in a day, money is transferred to your account from the clearinghouse and if you lose, money from your account is transferred to the clearinghouse by the broker.
+
+Special Margin:
+This is collected to control volatility and excessive speculation.
+
+Let us see how importers/exporters and producers benefit by trading in commodity.
+
+Benefits for importers/exporters:
+Hedging: As the prices of commodities keep fluctuating, it is essential to use hedging that can minimize loss. One can hedge his/her exposure to physical market by taking an opposing stand in commodity futures market.
+
+Benefits for producers:
+Commodity trading helps in discovery of prices. If you are a producer of corn, there are chances of price coming down due to some reasons. By trading in commodities, you can fix the price at which you want to sell corn after few months.
+
+Factors that affect commodity market:
+1. Weather (floods, hurricanes, etc.)
+2. Geopolitical tensions
+3. Wars

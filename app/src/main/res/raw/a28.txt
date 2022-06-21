@@ -1,0 +1,64 @@
+Types of Commodity Market:
+Hard and soft commodities are traded on the exchanges. Metals, crude oil, etc. fall under the category of hard commodities whereas agricultural commodities like corn, wheat, cotton, soybean, guar are soft commodities as they have a limited shelf life. Let us concentrate on the types of commodity market in India and list of commodities traded on commodity market.
+
+Types of commodities traded in India (MCX):
+Bullion: Gold, Silver
+
+Base Metals: Aluminum, Brass, Copper, Lead, Nickel, Zinc
+
+Energy: Crude oil, Natural gas
+
+Agri commodities:Black pepper, Cardamom, Castor seed, Cotton, Crude palm oil, Mentha oil, Palmolein, Rubber
+
+List of commodities traded in India (NCDEX):
+Cereals and pulses: Barley, Chana, Maize kharif/south, Maize rabi, Wheat, Moong, Paddy (basmati)
+
+Fibres: Kappa’s, Cotton
+
+Guar seed, Guar gum
+
+Oil and Oil seeds:
+
+Castor seed, Cotton seed oil cake, Soybean, Refined soy oil, Mustard seed, Crude palm oil
+
+Soft: Sugar
+
+Spices: Pepper, Turmeric, Jeera, Coriander
+
+List of most traded commodities:
+Crude oil, Gold, Brent oil, Silver, corn, Natural Gas, Soybeans, Cotton, Wheat, Coffee are the most traded commodities on a global level. Below is the detailed information of few commodities belonging to the list of traded commodities.
+
+Crude oil:
+Crude oil is the most sought-after commodity as there are several products that are produced as a result of refining crude oil such as petroleum, diesel, etc. Geopolitical tensions erupt all over the globe for dominance over crude oil reserves. The demand for crude oil is poised to increase with growing demand for automobiles. OPEC is a consortium of oil producing nations and the supply of crude oil gets disrupted due to wars, armed rebellion, etc. Top oil producing countries in the world are US, Saudi Arabia, Russia.
+
+Gold:
+Gold is always considered as a haven. Whenever the US dollar prices fall, people start buying gold and when the price of dollar increases, gold prices fall. US dollar and gold prices share an inverse relationship.
+
+Soybeans:
+Factors that affect soybean prices are biodiesel demand, weather and demand for dollar.
+
+Participants of commodity market:
+Speculators:
+Speculators and hedgers are the drivers of commodity market. These traders constantly analyze the prices of commodities and forecast the future price movement. For example, if they predict the prices to move higher, they buy commodity futures contract and if the prices seem to move higher, they sell the contracts at a price higher than the price at which they bought. If they feel that the prices would move down, they sell the contracts and then buy them again at an even lower price. In both the cases, they tend to make profits.
+
+Hedgers:
+Producers, manufacturers, etc. usually hedge their risk by using commodity futures market. Let us take an example to understand this concept. There is a wheat farmer and if there is fluctuation of prices during harvest and if price falls, farmer would face loss. To hedge this risk, the farmer enters into a futures contract. When there is fall in price in the local market, the farmer can compensate this loss by making gains in the futures market. In case there is increase in price during harvest, the farmer would face loss in the futures market but he can compensate this loss by selling it at a higher price in the local market.
+
+What benefits does one get by trading in commodities?
+Transparency in trading transactions:
+As commodity trading happens over the exchange, there is no manipulation of prices neither by buyers or sellers. The buyer quotes a price and in the same way a seller quotes a price and if there is a match between the two, the order gets executed. Price discovery of commodities is possible without any manipulation and this is the major advantage of using advanced online trading platforms. Lower margins in commodity futures encourage small trades to use this segment to hedge their risk and get higher leverage.
+
+Risk Management:
+As trading takes place on exchanges, there is no fear of counterparty risk. Proper risk management procedures are enforced by the exchanges to safeguard the investors.
+
+Major Commodity Exchanges in India:
+Multi Commodity Exchange of India
+National Commodity and Derivatives Exchange
+Indian Commodity Exchange
+National Multi Commodity Exchange of India
+Important points to note while trading in commodity:
+Commodity prices area affected by many reasons and it is important to understand these factors and the strategies that must be employed before trading in commodities.
+One should have a clear idea about the demand-supply chain to trade in commodities.
+While one gets higher leverage, risk associated with commodity trading is also higher.
+If you are a beginner, take the support of research experts because a thorough knowledge and constant monitoring of the market is necessary.
+Have clarity on the commodity types list and read extensively on how the price of a particular commodity gets impacted before you begin trading in commodities.

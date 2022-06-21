@@ -1,0 +1,37 @@
+What Is Hedging In Stock Market
+Hedging is referred to as buying an asset designed to reduce the risk of losses from another assets. Hedging in finance is a risk management strategy that deals with reducing and eliminating the risk of uncertainties. It helps to restrict losses that may arise due to unknown fluctuations in the price of the investment.
+
+It is a standard practice followed by investors in the stock market to safeguard their investments from losses. This is also done in the following areas:
+
+Commodities: It includes agricultural products, energy products, metals, etc. The risk associated with these is known as commodity risk.
+Securities: It includes investments in shares, equities, indices, etc. The risks associated with these are known as equity risk or securities risk.
+Currencies: It includes foreign currencies. There are various types of risks associated with it like - currency risk volatility risk, etc.
+Interest rate: It includes lending and borrowing rates. The risks associated with these are known as interest rate risks.
+Weather: It is also one of the areas where hedging is possible.
+Hope now you have understood what do you mean by hedging, now let us look about their advantages and types below.
+
+What Do Hedge Funds Do?
+In hedge funds, the hedge fund manager raises money from an outside investor and then invests the same according to the strategy that was promised by investor. There are funds that specialize in long term equities wherein they only buy common stock and never sell short. Also, there are funds that engage in private equity meaning buying of entire privately held businesses, often taking them over, improving operations, and later sponsoring an IPO. There are hedge funds that trade bonds, also specialize in real estate; there are some that put money to work in specialized asset classes such as patents and music rights.
+
+Different Types of Hedges:
+Hedging is broadly divided into three types which will help investors to gain profits by trading different commodities, currencies or securities. These are:
+
+Forward Contract:It is a non-standardized agreement to buy or sell underlying assets at a determined price on the date agreed by two independent parties involved. Forward contract covers various contracts like forward exchange contracts for currencies, commodities, etc.
+Futures Contract: It is a standardized agreement to buy or sell underlying assets at a determined price on the specific date and standardized quantity agreed by two independent parties involved. A futures contract covers various contracts like commodities, currencies future contracts, etc.
+Money Markets: It is one of the major components of financial markets where short-term lending, borrowing, buying and selling is done with the maturity of one year or less. It covers many forms of financial activities of currencies, money market operations for interest, calls on equities where short-term loans, borrowing, selling and lending happen with a maturity of one year or more.
+Advantages of Hedging
+It can be used for locking profit
+Enables traders to survive hard market periods
+It limits losses to a great extent
+As it facilitates investors to invest in various asset classes, therefore, increases liquidity
+It also helps in saving time as the long-term trader is not required to monitor/adjust his portfolio with daily market volatility
+It offers a flexible price mechanism as it requires lower margin outlay
+It gives the trader protection against commodity price changes, inflation, currency exchange rate changes, interest rate changes, etc. on successful hedging
+In hedging using option provides traders an opportunity to practice complex options trading strategies to maximize return
+It helps in increasing liquidity in financial markets
+How do investors hedge funds?
+There are various strategies opted by AMCs to mitigate losses like:
+
+Asset Allocation: It is done by diversifying an investor’s portfolio with various asset classes. Like, you can invest 40% in the equities and rest in stable asset classes which helps to balance the investments.
+Structure: It is done by investing a certain portion of the portfolio in debt instruments and the rest in derivatives. Investing in debt provides stability while investing in derivatives protects from various risks.
+Through Options: It includes options of calls and puts of assets, which facilitate to secure your portfolio directly.

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stock Market Guide</string>
+    <string name="action_settings">About</string>
+    <string name="action_rate">Rate App</string>
+    <string name="action_share">Share App</string>
+    <string name="action_more">Developer Page</string>
+
+
+</resources>

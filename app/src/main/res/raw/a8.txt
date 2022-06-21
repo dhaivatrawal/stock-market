@@ -1,0 +1,26 @@
+What is Pre market trading?
+Premarket trading is a trading that occurs on exchanges before the regular market trading hours begin. The pre market stock trading takes place between the hours of 8:00 AM and 9:30 AM. The volumes traded in premarket sessions are usually much lower as compared to regular trading hours. Due to very few participants active before the market hours i.e. 9:30 AM, investors find it difficult to execute transactions.
+
+In premarket sessions, investors have less liquidity i.e. converting stocks into cash therefore, the prices may not adjust as quickly as they do in the regular market session.
+
+Premarket trading background
+Pre-market trades are executed on computer-based systems including alternative trading systems and electronic communications networks. Premarket trading is used by traders for various reasons like:
+
+To see where the market and individual securities are headed when regular trading starts.
+To try to get ahead of market reactions to breaking news like overseas events, political instability, and other factors that can affect markets or individual securities.
+If a corporation releases an earnings announcement after the market closes and it could cause the stock to rise or fall the next trading day, then the premarket trader can attempt to buy or sell early before the regular market session.
+What is pre open market?
+The pre open market sessions are from 9:00 AM to 9:15 AM for both the National Stock Exchange (NSE) and Bombay Stock Exchange (BSE). Pre open market is basically the period of trading activity which takes place just before the regular stock market session.
+
+How premarket trading works?
+Trading in extended sessions happens electronically i.e. through Electronic Communication Network (ECNs). When buy order is placed at a predetermined rate, ECNs keeps a track and the moment there is any matching sell order it acts as a matchmaker bringing them close to each other hence, completely makes the broker null and void. In premarket trading sessions, the liquidity levels are quite tight and the trade is rather volatile.
+
+Before proceeding, let us learn a few basic terms i.e. type of orders that are placed in market:
+
+Market Orders: When the price of the order is not specified during buying or selling, such orders are executed as per the availing market rates.
+Limit Orders: When the price and quantity of orders are specified for buying and selling, these are executed once the matching orders are found.
+The 15-minute session consists of mainly 3 slots:
+
+9:00 AM - 9:08 AM: It is known as the order collection period. During this period, the orders can be modified or canceled.
+9:08 AM -9:12 AM: It is known as order matching period and trade confirmation period. In this period placed orders are confirmed based on the price identification method referred to as “Equilibrium price determination” or “Call auction”. During this period modification or cancellation of placed order cannot be done.
+9:12 AM – 9:15 AM: It is known as a buffer period and it facilitates the transition from pre open market to normal market session.

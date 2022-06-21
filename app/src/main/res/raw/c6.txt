@@ -1,0 +1,70 @@
+Mutual funds
+Investment companies raise fund from the public and fund so raised are invested across asset classes in accordance with stated objectives in offer documents.
+
+Mutual funds units are issued and redeemed by the Asset Management Company based on the fund's Net asset value which is determined at the end of each trading session. NAV is calculated as the value of all the assets held by the fund minus expenses divided by the number of units issued.
+
+Benefits:
+Professional management of funds:
+Mutual fund investments are managed by experienced and high-level professionals, who with the help of an investment research team, analyze the performance and prospects of companies and execute trades to achieve the objective of the schemes.
+
+Diversification of the portfolio:
+Mutual funds invest in a wide variety of securities. This diversification helps to manage the overall risk of the investments as diversification can limit the exposure to any one security.
+
+Low cost of investment:
+A mutual fund enables to invest in diversified portfolio for a very small amount. This makes it more attractive.
+
+High liquidity in nature:
+In open-ended mutual funds investors can redeem all or part of their units as the need arises.
+
+Well regulated:
+ are very well regulated by SEBI. As a result, mutual funds are subject to monitoring and inspection by SEBI.
+
+Different types of mutual fund schemes:
+Depending on maturity period
+
+Open-ended schemes:
+An open-ended fund is the one that is available for subscription or repurchase on a continuous basis all through the year. These funds do not have a fixed maturity, and investor can easily sell and buy units at Net Asset Value (NAV) related prices. The key aspect of this scheme is liquidity.
+
+Close-ended schemes:
+A close-ended fund has a stipulated maturity period. It is open for subscription only during a specific period at the time of launch of the scheme. An investor can invest in the scheme at the time of initial public issue, after which time they can buy or sell the units of the scheme on the stock exchanges where the units are listed.
+
+Depending on investment objective:
+Equity Oriented schemes:
+The aim of these funds is to provide capital appreciation over medium to long term. Typically, such schemes invest a major part of their corpus in equities. These schemes provide various options such as dividend option and growth option.
+
+Income/Debt oriented schemes:
+The aim of these funds is to provide regular and steady income to investors. Income funds normally invest in fixed income securities such as bonds, corporate debentures, government securities and money market instruments. These funds are less risky compared to equity schemes and capital appreciation is also limited.
+
+Balanced funds:
+The aim of these funds is to provide both growth and regular income. Balanced funds invest both in equities and fixed income securities as per the proportion indicated in their offer documents.
+
+Money Market and Liquid fund:
+These are also income funds and aim to provide easy liquidity, preservation of capital and moderate income. These funds invest exclusively in safer short-term instruments such as treasury bills, certificates of deposit, commercial paper, inter-bank call money, government securities etc. Returns on these schemes fluctuate much less compared to other funds.
+
+Gilt Fund:
+These funds invest exclusively in government securities which have no default risk. Due to change in interest rate and other economic factors, NAVs of these schemes also fluctuate.
+
+Index funds:
+These funds replicate the portfolio of a particular index such as the BSE Sensitive, NSE 50 Index (Nifty), etc.
+
+Sector specific schemes:
+These funds invest in the securities of only those sectors or industries as specified in the offer documents. The returns depend on the performance of the respective sectors/ industries.
+
+Tax saving schemes:
+These schemes offer tax rebates to the investors under specific provisions of the Income Tax Act, 1961 as the Government offers tax incentives for investment in specified avenues, E.g. Equity Linked Savings Schemes (ELSS). Pension schemes launched by the mutual funds also offer tax benefits. These schemes are growth oriented and invest pre-dominantly in equities.
+
+Fund of Fund (FoF) scheme:
+It’s a scheme that that invests primarily in other schemes of the same mutual fund or other mutual funds. As the scheme spreads risks across a greater universe, investors can achieve greater diversification through one scheme.
+
+Load or no-load fund:
+Load fund charges a percentage of NAV for exit and no-load fund does not charge anything for exit.
+
+Investments Plans from Mutual Funds
+Growth Plan
+It’s a plan wherein returns from investments are reinvested and very little income is distributed amongst investors or unit holders.
+
+Dividend Plan
+Under this plan income is distributed amongst investors or unit holders from time to time.
+
+Dividend Reinvestment Plan
+Under this plan, dividends declared by fund or reinvested in the scheme on behalf of the investor there by increasing the number of units held by the investors.

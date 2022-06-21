@@ -1,0 +1,186 @@
+Technical Analysis
+It deals with the representations of demand and supply which technicians believe that get reflected in terms of price patterns.
+
+It examines past price and volume data (which gets reflected in chart patterns) to forecast future price movements.
+
+Along with chart patterns, technicians also look at the performances of leading technical indicators to find prevailing market trend or likely trend reversal.
+
+Technical analysis is based on below given assumptions;
+
+1. Market discounts everythings
+2. Price moves in trends
+3. History repeats itself
+Fundamental analysis takes relatively longer term approach as data that they analyze are released over long periods of time. Financial statements are filed quarterly and changes in earning per share do not take place on a daily basis like price and volume.
+
+Technical analysis is of shorter term in nature than fundamental analysis. In general, technical analysis is used for trade whereas fundamental analysis is used for investment.
+
+Technical Tools:
+Relative Strength Index (RSI):
+It is calculated by taking averages of up-closes during 'n' period and dividing the same by average of down-close during last 'n' days.
+RSI = 100-100/(1+RS)
+Price generally reach overbought level when RSI rises above 70 and reach oversold when it declines below 30.
+
+Average Directional Index (ADX):
+It is a trend line indicator that is used to measure the strength of the current trend. It is combinations of two price movements measures; the positive directional indicator (+DI) and the negative directional indicator (-DI). The +DI measures the strength of upward trend while -DI measures the strength of downward trend. These two measures are also plotted along with ADX line. Measured on a scale between 0 and 100, reading below 20 signals is a weak trend, while reading above 40 signals is a strong trend.
+
+Bollinger Bands:
+It consists of moving average and 2 S. D. Charted as one line above and one line below moving average. Symbolically,
+20 DMA + 2 S. D. = Upper Band; 20 DMA - 2 S. D. = Lower Band.
+Thus, as per Bollinger Bands theory, prices would stay within certain range, dictated by the recent price action.
+Upper band usually indicates market having reached into overbought territory and hence likely downward reversal in price, while lower band indicates market having reached into oversold territory and hence likely upward reversal.
+
+Moving Averages (MAs):
+It is the average price of a defined period of time. It is called moving average because it reflects the latest average while adhering to same time measure.
+
+Moving averages are used by combining two averages of distinct time frames: wherein, buy signal is detected when shorter term moving average crosses above longer term moving average or vice-versa.
+
+Moving Average Convergence and Divergence (MACD):
+It measures degree of fluctuations between two exponential moving averages. Ideally, between short-term EMA of 12 days and long term EMA of 26 days.
+To create buy/sell signal, an EMA of 9 days is calculated on MACD. Symbolically,
+MACD = Short term EMA (12) – Long Term EMA (26)
+MACD crosses above/below trend line suggest to beginning or end to trend.
+
+Fibonacci Retracements:
+It is used to determine how far has price rebounded and backtracked from the underlying trend. The retracements levels are; 38.2%, 50% and 61.8%. The Fibonacci series is a sequence of numbers starting from zero arranged and put in such a way that the value of any number in the series is the sum of the previous two numbers.
+
+The Fibonacci sequence is as follows:
+
+0 , 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610…
+
+have look on the following:
+
+233 = 144 + 89
+144 = 89 + 55
+89 = 55 +34
+
+Interesting Features of the Fibonacci series:
+
+Divide any number in the series by the previous number; the ratio is always approximately 1.618.
+For example:
+610/377 = 1.618
+377/233 = 1.618
+233/144 = 1.618
+
+The ratio of 1.618 is considered as the Golden Ratio, also referred to as the Phi. Further into the ratio properties, one can find remarkable consistency when a number is in the Fibonacci series is divided by its immediate succeeding number.
+
+For example:
+89/144 = 0.618
+144/233 = 0.618
+377/610 = 0.618
+
+Similar consistency can be found when any number in the Fibonacci series is divided by a number two places higher.
+
+For example:
+13/34 = 0.382
+21/55 = 0.382
+34/89 = 0.382
+0.382 when expressed in percentage terms is 38.2%
+
+Also, there is consistency when a number in the Fibonacci series is divided by a number 3 place higher.
+
+For example:
+13/55 = 0.236
+21/89 = 0.236
+34/144 = 0.236
+55/233 = 0.236
+0.236 when expressed in percentage terms is 23.6%.
+
+These retracement levels provide a good opportunity for the traders to enter new positions in the direction of the trend. The Fibonacci ratios i.e. 61.8%, 50%, 38.2%, and 23.6% help traders to identify the likely extent of the retracement. The trader can use these levels to enter new position or placing stop loss against existing positions.
+
+Dow Theory:
+It states that securities market performance is influenced by three cyclical trends namely, Primary which is long term trend or movements confirming to Bull or Bear market, Secondary or Intermediary Trend which is caused by short term deviations from underlying trend and Minor or Tertiary Trend which are daily fluctuations in either direction.
+
+Dow Theory is used to indicate trend and reversal in the market as well as in individual security. The basic tenet is that there is a positive relationship between trend and volume of stocks traded.
+
+Elliot Wave Theory:
+Ellioticians classify price movements in patterned wave which indicate to future price target and reversal.
+
+Waves moving along with trend are called Impulsive waves in 5 primary and 3 secondary trends. The eight waves movements comprise a complete waves cycles.
+
+Once the sequence is complete, the pattern repeats in larger and smaller version of these same basic patterns. The same holds true for bear market in which pattern is inverted five waves decline are followed by three waves rally.
+
+The key to Elliot Waves is to be able to find the wave context in question.
+Ellioticians use Fibonaaci series to predict the top and bottom of waves.
+
+Chart Types and Patterns:
+There are four 3 main types of charts used by traders; Bar chart, Candlestick chart and Line chart.
+
+Bar Chart:
+Bar charts have all four price components including open, high, low & close. The opening price on a bar chart is shown as the dash on the left side of the vertical bar while closing price is shown as dash on the left side of the vertical bar.
+
+belischartbearishchart
+Candlestick Charts:
+The candlestick chart is similar to bar chart but more visually information. There are two different colors of candles wherein empty candle represents bullish while filled candle represents bearish.
+
+bulish candle stick chartbearish candle stick chart
+Line Chart:
+line chart
+It represents only the closing prices of stock over the set period of time. The line is formed by connecting the closing prices over the certain time frame.
+Line charts do not give visual information of trading range such as high, low and opening prices.
+
+However, the closing price is often considered to be the most important price for the day.
+
+ 
+Chart Patterns:
+There are two types of chart patterns – Continuation Pattern and Reversal Patterns.
+
+Ascending Triangle:
+Ascending-TrianglesIn an ascending triangle, upper trend line is flat while the bottom trend line is upward slopping. This is generally thought of as a bullish pattern.
+
+Descending Triangle:
+Descending-TrianglesIn descending triangle, the lower trend line is flat and the upper trend line is descending. This is generally thought of as bearish pattern.
+
+Symmetrical Triangle/Rectangle:
+Symmetrical-TrianglesThe symmetrical triangle is neutral, in that a breakout of the upside or downside is a confirmation of a trend in that direction.
+
+Flag & Pennant:
+flagsThese two are continuation patterns that are formed when there is a sharp price movements followed by a sideways price movements and then sharp price movements in the same direction.
+
+Wedge:
+wedgeThe wedge chart pattern can either be a continuation or reversal pattern. At the most basic level, a falling wedge is bullish and rising wedge is bearish.
+
+Head & Shoulder Pattern:
+head-shoulderHead & Shoulders Top is a chart pattern that is formed at a high of an upward movements and signals that the upward trend is about to end.
+Head & Shoulders Pattern Bottom signals to reversal in downtrend.
+
+Double Tops and Bottoms:
+double chartThese patterns are formed after a sustained trend and signal to reversal in trend. This pattern is formed when a price movements tests support and resistance levels twice and is unable to break through.
+
+Tripple Tops and Bottom:
+triple chartPatterns are formed when the price movement test a level of resistance and support three times and is unable to break through. This is signal to reversal of prior trend.
+
+Cup and Handle:
+Cup-handleA cup and handle chart is bullish continuation pattern in which the upward trend has paused but will continue in upward direction, once the pattern is confirmed.
+
+Rounding Top & Bottom:
+roundingA rounding bottom is a long-term reversal pattern that signals change in downward trend to an upward trend. This pattern is different from Cup and Handle pattern in the sense that it is without handle.
+
+Gap Down & Up:
+Gap ChartA gap in chart is an empty space between a trading period and the following trading period. This occurs when there is a large difference in prices between two sequential trading periods.
+
+Candlestic Patterns:
+Morning Star:
+A large black body followed by a small body that fills the gap below the black body. The following candlestick is white body that closes above 50% or more into the black body.
+Interpretaion: A bottom reversal
+
+Evening Star:
+A large white body followed by a small body that fills the gap up above the white body. The third candlestick is black body which closes 50% or more into the white body.
+Interpretation: A top reversal signal.
+
+Morning evening chart
+Bullish Harami:
+A large black body followed by a small white body which is contained within the black body.
+Interpretation: A bullish pattern when preceded by downtrend.
+
+Bearish Harami:
+A large white body followed by a small black body that is contained within the previous candle.
+Interpretation: A bearish pattern when preceded by uptrend.
+
+Bear bull chart
+Hanging:
+The Hanging Man chat formation takes place when the open, high, and close are virtually the same price. Also, there is a long lower shadow, which should be at least twice the length of the real body.
+When the high and the open are the same, a bearish Hanging Man candlestick is formed and when the high and close are the same, forming a bullish Hanging Man.
+
+hangingman
+Other candlestic patterns include
+Doji, Doji Star, Morning Doji Star, Bullish Harami Cross, Bearish Harami Cross, Bullish Engulfing, Bearish Engulfing.

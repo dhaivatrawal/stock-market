@@ -1,0 +1,27 @@
+Face Value of Share - What is the face value in share market?
+Face Value Meaning
+Face value is also known as par value. It is the value of a company listed in its books and share certificates. The face value is decided by the company when it offers shares at the time of issuance.
+
+How does the face value of share work?
+The face value of share is assigned by the company in an arbitrary manner and is utilized for calculation of the accounting value of the company’s stock so that it can be used in the balance sheet.
+
+Each company issue shares along with a fixed value referred to as the face value of stock or share. The shareholders are issued a share certificate by the company containing details of shares. On the share certificate, the face value of shares is clearly indicated. Majorly, the shares of Indian companies have a face value of Rs. 10.
+
+Importance of face value in stock market:
+The face value of share is a useful component in the calculations of bonds and stocks, also used in the computation of payment of interest, market values, premiums and returns. It is very important to understand that face value of share has no relation with the market value of stock or price. Many a time people get confused between the two terms, therefore, let us know the prominent differences between the two terms.
+
+Example: Let’s understand the importance of face value of share with the help of an example: Let us suppose a Company XYZ takes a decision of issuing bonds for the purpose of raising capital or funds.
+
+The main objective of company XYZ is to raise Rs. 5 crore.
+
+Now let’s say the face value of share of the company is Rs. 100, and the company shall issue 5, 00,000 bonds to meet its capital requirement.
+
+If the company decides to pay 2% interest on the bonds, it means that it would be required to pay 2% interest on the face value of Rs. 100 each year. Therefore, the annual interest on the bond that is to be paid is 5, 00,000*2% i.e. Rs. 10,000 with Rs.100 as the face value.
+
+Differences between the face value of share and market value of shares:
+Mostly, first time investors are a bit confused and are not able to find out the difference between face value of stock and market value of the stock. But both are very different as, face value of share always remains fixed and on the other hand, the market value is essentially the price which is listed on the stock exchange and that tends to change, fluctuate as per the market condition.
+
+Splitting of the face value of shares can be done or not?
+The company’s face value of share always remains the same irrespective of the market price of that share. To bring more volatility to the share, companies have the right to split the face value of the share to Rs. 5, 2 or 1.
+
+We hope you may have understood about the face value of shares as it is important to invest or trade hassle-free in the stock market. Also, it will help you to understand that there is relation between face value of share and the market value. Hence, do not get confused between them.
